@@ -1,0 +1,26 @@
+.avatar-img {
+  width: 70px;
+  height: 60px;
+  border-radius: 50%;
+  position: relative;
+  top: 80px;
+  right: 220px;
+}
+.fas {
+}
+.last-btn {
+  position: relative;
+  left: 300px;
+}
+.btn {
+  border: 2px solid grey;
+}
+img {
+  width: 150px;
+  height: 130px;
+}
+.gif-img {
+  position: relative;
+  bottom: 150px;
+  left: 170px;
+}
